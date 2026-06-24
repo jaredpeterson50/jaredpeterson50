@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Jared Peterson 👋
 
-<!--
-**jaredpeterson50/jaredpeterson50** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cybersecurity professional with a software development and cloud infrastructure background, currently transitioning from 20 years of public service into cloud security and security engineering.
 
-Here are some ideas to get you started:
+I enjoy building real-world projects that combine Azure, AWS, Terraform, GitHub Actions, automation, and security best practices.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Working On
+
+- ☁️ Azure Cost Management Dashboard
+- 🔐 Cloud security automation
+- 🏗️ Infrastructure as Code (Terraform)
+- 🚀 CI/CD pipelines
+- 📊 Azure FinOps dashboards
+- 🤖 AI-assisted development workflows
+
+## Certifications
+
+- CompTIA Security+
+- CompTIA CySA+
+- AWS Certified Solutions Architect – Associate
+
+## Currently Learning
+
+- Microsoft Azure (AZ-104)
+- Detection Engineering
+- Security Automation
+- Cloud Security Architecture
+
+> *Building projects, documenting everything, and continuously learning.*
